@@ -1,0 +1,3 @@
+class Rockstar
+
+end
