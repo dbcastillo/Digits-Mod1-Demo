@@ -23,6 +23,8 @@ You'll be able to test out the methods that you write here.
   - returns a unique array fo all rockstars a fan will see in concert
 - `.find_name(name)`
   - given a name (string), returns first fan with matching name
+- `.all`
+  - return all fans
 
 #### Rockstar
 
@@ -34,7 +36,8 @@ You'll be able to test out the methods that you write here.
   - returns average number of fans for rockstar based on concerts
 - `#largest_concert`
   - returns name of concert with highest number of fans for a given rockstar
-
+- `.all`
+  - return all rockstars
 #### Concert
 
 - `#fan`
@@ -47,3 +50,5 @@ You'll be able to test out the methods that you write here.
   - returns the name of the concert, as a string
 - `#number_fans`
   - returns how many fans are going to this concert, as an integer
+- `.all`
+  - return all concerts
