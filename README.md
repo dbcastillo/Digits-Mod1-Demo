@@ -42,7 +42,7 @@ You'll be able to test out the methods that you write here.
 
 - `#fan`
   - returns fan object for that concert
-  - when a concert is created, I shoiuldn't change the fan
+  - when a concert is created, I shouldn't change the fan
 - `#rockstar`
   - returns rockstar object for that concert
   - when a concert is created, I shouldn't change the rockstar
