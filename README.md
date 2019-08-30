@@ -20,7 +20,7 @@ You'll be able to test out the methods that you write here.
 - `#num_concerts`
   - returns total number of concerts a fan has
 - `#rockstars`
-  - returns a unique array fo all rockstars a fan will see in concert
+  - returns a unique array for all rockstars a fan will see in concert
 - `.find_name(name)`
   - given a name (string), returns first fan with matching name
 - `.all`
@@ -42,7 +42,7 @@ You'll be able to test out the methods that you write here.
 
 - `#fan`
   - returns fan object for that concert
-  - when a concert is created, I shoiuldn't change the fan
+  - when a concert is created, I shouldn't change the fan
 - `#rockstar`
   - returns rockstar object for that concert
   - when a concert is created, I shouldn't change the rockstar
